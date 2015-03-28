@@ -1,0 +1,25 @@
+{
+  "name": "dgeni",
+  "version": "1.0.0",
+  "description": "dgeni tryout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abbazabacto/dgeni.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbazabacto/dgeni/issues"
+  },
+  "homepage": "https://github.com/abbazabacto/dgeni",
+  "devDependencies": {
+    "canonical-path": "0.0.2",
+    "dgeni": "^0.4.1",
+    "dgeni-packages": "^0.10.12",
+    "grunt": "^0.4.5"
+  }
+}
